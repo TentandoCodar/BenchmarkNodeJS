@@ -1,4 +1,4 @@
-#Benchmark made with nodeJS and its frameworks: (<--  )
+#Benchmark made with nodeJS and its frameworks: <br>
 Express: 0.7206s
 Fastify: 2.509s
 Hapi: 0.5936s
